@@ -25,4 +25,14 @@ double note[5]; //notele obtinute in semestrul anterior
 
 ``` 
 Datele folosite in rularea testelor sunt indicate de macro-urile prezente in fisierul test-utils.hpp (ex: TASK1_TEST_FILENAME)
+--- Cum arata fisierul de date? ---
+    2           -> numarul de studenti
+    Popescu     -> nume student no.1
+    Ion         -> prenume student no.1
+    77          -> id student no.1
+    7 8 9 10 5  -> note student no.1
+    Niculescu   -> nume student no.2
+    Catrinel    -> prenume student no.2
+    155         -> id student no.2
+    10 8 10 5 8 -> note student no.2
 ```
