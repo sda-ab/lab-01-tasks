@@ -3,6 +3,9 @@
 bool customCompare(student first, student second) {
 	if (strcmp(first.nume, second.nume) != 0 || strcmp(first.prenume, second.prenume) != 0 || strcmp(first.id, second.id) != 0)
 		return false;
+	for (int i = 0; i < 5; i++)
+		if (first.note[i] != second.note[i])
+			return false;
 	return true;
 }
 
