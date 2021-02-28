@@ -28,7 +28,6 @@ std::vector<student> beforeEach(const char * test_task_data)
 	file >> size;
 
 	for (int i = 0; i < size; i++) {
-		//studentsVector.insert(studentsVector.begin(), person(&file)); -- in caz ca trb sa arate SF dar sa fie tampit
 		studentsVector.push_back(person(&file));
 	}
 
