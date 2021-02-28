@@ -36,4 +36,4 @@ Datele folosite in rularea testelor sunt indicate de macro-urile prezente in fis
     155         -> id student no.2
     10 8 10 5 8 -> note student no.2
 ```
-#### Puteti afla mai multe legate de modul de lucru [aici](https://github.com/sda-ab/student-setup#indicatii-rezolvare-laborator)
+#### Puteti afla mai multe legat de modul de lucru [aici](https://github.com/sda-ab/student-setup#indicatii-rezolvare-laborator)
