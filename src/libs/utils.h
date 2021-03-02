@@ -11,7 +11,6 @@
 
 /**
  * @brief 
- * //TODO: Completeaza sectiunea
  * @param filename 
  * @param mode 
  * @return FILE* 
