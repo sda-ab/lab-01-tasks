@@ -1,7 +1,7 @@
 #include "student.h"
 
 /**
- * //TODO: Implementarea metodei ,,realocare_memorie" (se elimina fiecare student restantier)
+ * //TODO: Implementarea metodei ,,realocare_memorie" 
  * @param vector  - pointer catre vectorul de studenti 
  * @param dimensiune - dimensiunea vectorului
  */
