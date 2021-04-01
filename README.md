@@ -6,7 +6,7 @@
 -
 
 - Se dă stuctura student: 
-```
+```c
 struct student{
 char *nume; //numele de familie
 char *prenume; //prenumele
